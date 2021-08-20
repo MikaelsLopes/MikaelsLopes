@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Mikael L Santos
+## Oiii! Eu sou o Mikael  Lopes
   
 - 🔭 Atualmente trabalho como analista de midias sociais
 - 🌱 Estudando analise e desenvolvimento de sistemas
