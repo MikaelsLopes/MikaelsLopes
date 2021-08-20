@@ -26,4 +26,4 @@
   <a href="https://www.linkedin.com/in/mikael-lopes-8a07241b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>      
 </div>
   
-  ![Snake animation]https://github.com/MikaelsLopes
+  ![Snake animation](https://github.com/MikaelsLopes/MikaelsLopes/blob/output/github-contribution-grid-snake.svg)
